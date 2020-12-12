@@ -1,9 +1,9 @@
 <a href="https://github.com/flipped-1121?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" /></a>
 
-### Hi there 👋
+### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
-I'm Kang. A college student.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+I'm Kang. A college student.
 
 🌱 I’m currently learning:
 
@@ -19,21 +19,6 @@ I'm Kang. A college student.<img src="https://emojis.slackmojis.com/emojis/image
 &ensp;&ensp;&ensp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=Gitea&logoColor=fff) ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=fff) ![Drone](https://img.shields.io/badge/-Drone-212121?style=flat-square&logo=Drone&logoColor=fff)
 
 &ensp;&ensp;&ensp;![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff)
-
-🔧My Most Used Languages
-<div>
-  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/6fbbc3ca-b27f-499b-8d6a-1054872ead0e.svg" /></a>
-</div>
-
-🛠My IDEs
-<div>
-  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/4667a5ad-1965-4297-b38b-634fa0c0f8ad.svg" />  
-</div>
-
-💻My Coding Activitys
-<div>
-  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/e13540c1-28f5-4e20-ad34-3691b9a8e5ef.png" />
-</div>
 
 📫 How to reach me: 
 
