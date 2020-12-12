@@ -7,7 +7,7 @@ I'm Kang. A college student
 
 🌱 I’m currently learning:
 
-&ensp;&ensp;&ensp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000) ![C](https://img.shields.io/badge/-C-DCDCDC?style=flat-square&logo=C&logoColor=DC143C) ![Python](https://img.shields.io/badge/-Python-AFEEEE?style=flat-square&logo=Python&logoColor=00BFFF)
+&ensp;&ensp;&ensp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000) ![C](https://img.shields.io/badge/-C-DCDCDC?style=flat-square&logo=C&logoColor=DC143C) ![Python](https://img.shields.io/badge/-Python-AFEEEE?style=flat-square&logo=Python&logoColor=00BFFF) ![Android](https://img.shields.io/badge/-Android-87CEFA?style=flat-square&logo=Android&logoColor=ADFF2F)
 
 🎉 I’m interested in things related to:
 
