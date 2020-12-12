@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Kang. A college student
+I'm Kang. A college student.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
 🌱 I’m currently learning:
 
@@ -19,13 +19,6 @@ I'm Kang. A college student
 &ensp;&ensp;&ensp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Gitea](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=Gitea&logoColor=fff) ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=fff) ![Drone](https://img.shields.io/badge/-Drone-212121?style=flat-square&logo=Drone&logoColor=fff)
 
 &ensp;&ensp;&ensp;![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff)
-
-<h3>My GitHub Statistics</h3>
-<div>
-  <a width="495" href="https://github.com/flipped-1121">
-      <img src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&count_private=true"/>
-  </a>
-</div>
 
 🔧My Most Used Languages
 <div>
