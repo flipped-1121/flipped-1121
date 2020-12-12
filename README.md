@@ -20,6 +20,28 @@ I'm Kang. A college student
 
 &ensp;&ensp;&ensp;![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff)
 
+<h3>My GitHub Statistics</h3>
+<div>
+  <a width="495" href="https://github.com/flipped-1121">
+      <img src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&count_private=true"/>
+  </a>
+</div>
+
+🔧My Most Used Languages
+<div>
+  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/6fbbc3ca-b27f-499b-8d6a-1054872ead0e.svg" /></a>
+</div>
+
+🛠My IDEs
+<div>
+  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/4667a5ad-1965-4297-b38b-634fa0c0f8ad.svg" />  
+</div>
+
+💻My Coding Activitys
+<div>
+  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/e13540c1-28f5-4e20-ad34-3691b9a8e5ef.png" />
+</div>
+
 📫 How to reach me: 
 
 &ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://kangblogs.top-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://kangblogs.top) [![Telegram](https://img.shields.io/badge/-https://t.me/flipped1121-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/flipped1121) [![Email](https://img.shields.io/badge/-kangzhang51@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:kangzhang51@gmail.com)
