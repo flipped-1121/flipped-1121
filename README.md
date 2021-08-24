@@ -1,5 +1,5 @@
 <a href="https://sayuri.kangblogs.top">
-  <img align="right" src="" alt="Flipped" />
+  <img align="right" src="https://sayuri.kangblogs.top/get/@Flipped?theme=rule34" alt="Flipped" />  # 本人有强迫症，为了保持与Visitor Count数目一致，请不要单独点击此链接🤞
 </a>
 
 <a href="https://github.com/flipped-1121?tab=repositories">
