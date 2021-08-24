@@ -1,6 +1,6 @@
 <a href="https://github.com/flipped-1121?tab=repositories">
+  <img align="right" src="http://sayuri.fumiama.top/cmoe?name=Flipped&theme=r34" alt="Flipped" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" />
-  <img src="http://sayuri.fumiama.top/cmoe?name=Flipped&theme=r34" alt="Flipped" />
 </a>
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
