@@ -1,3 +1,4 @@
+![Flipped](http://sayuri.fumiama.top/cmoe?name=Flipped&theme=r34)
 <a href="https://github.com/flipped-1121?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" /></a>
 
