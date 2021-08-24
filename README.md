@@ -1,5 +1,8 @@
-<a href="https://github.com/flipped-1121?tab=repositories">
+<a href="https://sayuri.kangblogs.top">
   <img align="right" src="https://sayuri.kangblogs.top/get/@Flipped?theme=rule34" alt="Flipped" />
+</a>
+
+<a href="https://github.com/flipped-1121?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" />
 </a>
 
