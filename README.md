@@ -1,5 +1,5 @@
 <a href="https://sayuri.kangblogs.top">
-  <img align="right" src="https://sayuri.kangblogs.top/get/@Flipped?theme=rule34" alt="Flipped" />
+  <img align="right" src="" alt="Flipped" />
 </a>
 
 <a href="https://github.com/flipped-1121?tab=repositories">
