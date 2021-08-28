@@ -33,6 +33,7 @@ I'm Kang. An undergraduate.
 
 &ensp;&ensp;&ensp;![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=flipped-1121)
 
+[![Kang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=flipped-1121&theme=xcode)](https://github.com/flipped-1121)
 
 <!--
 **flipped-1121/flipped-1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
