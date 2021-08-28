@@ -1,7 +1,7 @@
 <div align="right">
 
   <img src="https://sayuri.kangblogs.top/get/@Flipped?theme=rule34" /> 
-<! --本人有强迫症，为了保持与Visitor Count数目一致，请不要单独点击img里的链接🤞 -->
+<! --本人强迫症，为了保持与Visitor Count数目一致，请不要单独点击img里的链接🤞 -->
 
 <a href="https://github.com/flipped-1121?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" />
