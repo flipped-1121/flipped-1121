@@ -6,7 +6,6 @@
 <a href="https://github.com/flipped-1121?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" />
 </a>
-</div>
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
@@ -28,6 +27,7 @@ I'm Kang. An undergraduate.
 
 &ensp;&ensp;&ensp;![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff)
 
+</div>
 📫 How to reach me: 
 
 &ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://kangblogs.top-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://kangblogs.top) [![Telegram](https://img.shields.io/badge/-https://t.me/flipped1121-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/flipped1121) [![Email](https://img.shields.io/badge/-kangzhang51@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:kangzhang51@gmail.com)
