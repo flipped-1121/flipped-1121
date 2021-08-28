@@ -1,10 +1,12 @@
+<div align="right">
 <a href="https://sayuri.kangblogs.top">
-  <img align="right" src="https://sayuri.kangblogs.top/get/@Flipped?theme=rule34" alt="Flipped" /> 
+  <img src="https://sayuri.kangblogs.top/get/@Flipped?theme=rule34" alt="Flipped" /> 
 </a>  <! --本人有强迫症，为了保持与Visitor Count数目一致，请不要单独点击img里的链接🤞 -->
 
 <a href="https://github.com/flipped-1121?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" />
 </a>
+</div>
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
