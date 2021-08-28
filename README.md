@@ -1,8 +1,6 @@
 <div align="right">
 
-  <img src="https://sayuri.kangblogs.top/get/@Flipped?theme=rule34" alt="Flipped" />
-  <img src="http://sayuri.fumiama.top/cmoe?name=ZeroBot-Plugin&theme=r34" />
-  
+  <img src="http://sayuri.kangblogs.top/get/@Flipped?theme=rule34" alt="Flipped" />
 <!-- 本人强迫症，为了保持与Visitor Count数目一致，请不要单独点击img里的链接🤞 -->
 
 <a href="https://github.com/flipped-1121?tab=repositories">
