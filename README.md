@@ -1,3 +1,4 @@
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Do+something+interesting%EF%BC%81" alt="Typing SVG" /></a></div>
 <img align="right" src="https://sayuri.kangblogs.top/get/@Flipped?theme=rule34" alt="Flipped" />
 <!-- 本人强迫症，为了保持与Visitor Count数目一致，请不要单独点击img里的链接🤞 -->
 
@@ -7,7 +8,6 @@
 
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Do+something+interesting%EF%BC%81)](https://git.io/typing-svg)
 
 I'm Kang. An undergraduate.
 
