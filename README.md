@@ -1,5 +1,5 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Do+something+interesting%EF%BC%81" alt="Typing SVG" /></a></div>
-<img align="right" src="https://sayuri.kang.cf/get/@Flipped?theme=rule34" alt="Flipped" />
+<img align="right" src="[https://sayuri.kang.cf/get/@Flipped?theme=rule34](https://sayuri.coderkang.eu.org/get/@Flipped?theme=rule34)" alt="Flipped" />
 <!-- 本人强迫症，为了保持与Visitor Count数目一致，请不要单独点击img里的链接🤞 -->
 
 <a href="https://github.com/flipped-1121?tab=repositories">
