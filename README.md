@@ -31,8 +31,8 @@ I'm Kang. An undergraduate.
 
 &ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://kangblogs.top-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://kangblogs.top) [![Telegram](https://img.shields.io/badge/-https://t.me/coderkang-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/coderkang) [![Email](https://img.shields.io/badge/-kangzhang51@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:kangzhang51@gmail.com)
 
-📊 Visitor Count:
+<!-- 📊 Visitor Count: -->
 
-&ensp;&ensp;&ensp;![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=flipped-1121)
+<!-- &ensp;&ensp;&ensp;![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=flipped-1121) -->
 
 [![Kang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=flipped-1121&theme=xcode)](https://github.com/flipped-1121)
