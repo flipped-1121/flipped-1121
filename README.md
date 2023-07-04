@@ -35,4 +35,4 @@ I'm Kang. An undergraduate.
 
 <!-- &ensp;&ensp;&ensp;![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=flipped-1121) -->
 
-[![Kang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=flipped-1121&theme=xcode)](https://github.com/flipped-1121)
+[![Kang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flipped-1121&theme=xcode)](https://github.com/flipped-1121)
