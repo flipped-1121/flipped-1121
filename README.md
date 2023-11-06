@@ -19,7 +19,7 @@ I'm Kang. A crawler and algorithm engineer. <img src="https://emojis.slackmojis.
 
 📫 How to reach me: 
 
-&ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://blog.coderkang.top-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.coderkang.top)&ensp;&ensp;&ensp;<br />&ensp;&ensp;&ensp;[![Telegram](https://img.shields.io/badge/-https://t.me/coderkang-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/coderkang)<br />&ensp;&ensp;&ensp;[![Email](https://img.shields.io/badge/-coderkang@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:coderkang@hotmail.com)
+&ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://blog.coderkang.top-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.coderkang.top)&ensp;&ensp;&ensp;<br />&ensp;&ensp;&ensp;[![Telegram](https://img.shields.io/badge/-https://t.me/coderkang-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/coderkang)<br />&ensp;&ensp;&ensp;[![Email](https://img.shields.io/badge/-CoderKang@hotmail.com-D14836?style=flat-square&logo=Microsoft&logoColor=fff)](mailto:CoderKang@hotmail.com)
 
 <!-- 📊 Visitor Count: -->
 
