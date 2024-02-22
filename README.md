@@ -23,6 +23,4 @@
 | **AI**        | ![Pytorch](https://img.shields.io/badge/Pytorch-E34F26?style=for-the-badge&logo=Pytorch&logoColor=white) ![tensorflow](https://img.shields.io/badge/Tensorflow-1572B6?style=for-the-badge&logo=Tensorflow&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-CCCCFF?style=for-the-badge&logo=Numpy&logoColor=white) |
 | **Contacts**  | [![Blog](https://img.shields.io/badge/-https://blog.coderkang.top-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.coderkang.top) [![Telegram](https://img.shields.io/badge/-https://t.me/coderkang-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/coderkang) [![Email](https://img.shields.io/badge/-CoderKang@hotmail.com-D14836?style=flat-square&logo=Microsoft&logoColor=fff)](mailto:CoderKang@hotmail.com) |
 
----
-
 <!-- [![Kang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flipped-1121&theme=xcode)](https://github.com/flipped-1121) -->
