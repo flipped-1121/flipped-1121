@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Do+something+interesting%EF%BC%81" alt="Typing SVG" /></a>
 </div>
 
@@ -10,7 +10,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" />
 </a> -->
 
-<div align="center">
+<div align="left">
   <a href="https://sayuri.coderkang.eu.org"><img src="https://moe-counter.glitch.me/get/@CoderKang?theme=rule34" alt="Flipped" /></a>
 </div>
 
