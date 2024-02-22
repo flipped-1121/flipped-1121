@@ -25,4 +25,4 @@
 
 ---
 
-[![Kang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flipped-1121&theme=xcode)](https://github.com/flipped-1121)
+<!-- [![Kang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flipped-1121&theme=xcode)](https://github.com/flipped-1121) -->
