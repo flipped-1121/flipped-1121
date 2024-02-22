@@ -15,8 +15,9 @@
 </div>
 
 
+|               | I'm Kang. A crawler and algorithm engineer. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> |
+| ------------- | :----------------------------------------------------------- |
 | **Languages** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)![Vue Badge](https://img.shields.io/badge/-Vue-gray?style=flat&logo=Vue.js)![TS Badge](https://img.shields.io/badge/-TS-3178C6?style=flat&logo=typescript&logoColor=white) |
-| ------------- | :------------------------------------------------------------ |
 | **OS**        | [![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows&logoColor=0078D4)](https://github.com/Lvjinhong/Lvjinhong) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu&logoColor=E95420)](https://github.com/Lvjinhong/Lvjinhong) [![Centos](https://img.shields.io/badge/-Centos-black?style=flat&logo=centos&logoColor=0078D4)](https://github.com/Lvjinhong/Lvjinhong) |
 | **Tools**     | ![Docker Badge](https://img.shields.io/badge/-Docker-3178C6?style=for-the-badge&logo=Docker&logoColor=white) ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-17E293?style=for-the-badge&logo=PyCharm&logoColor=white) ![VSCode Badge](https://img.shields.io/badge/-VSCode-24ACF2?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 | **AI**        | ![Pytorch](https://img.shields.io/badge/Pytorch-E34F26?style=for-the-badge&logo=Pytorch&logoColor=white) ![tensorflow](https://img.shields.io/badge/Tensorflow-1572B6?style=for-the-badge&logo=Tensorflow&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-CCCCFF?style=for-the-badge&logo=Numpy&logoColor=white) |
