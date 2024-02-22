@@ -1,5 +1,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Do+something+interesting%EF%BC%81" alt="Typing SVG" /></a></div>
-<a href="https://sayuri.coderkang.eu.org"><img align="right" src="https://sayuri.coderkang.eu.org/get/@Flipped?theme=rule34" alt="Flipped" /></a>
+<a href="https://sayuri.coderkang.eu.org"><img align="right" src="https://moe-counter.glitch.me/get/@CoderKang?theme=rule34" alt="Flipped" /></a>
+
+<!-- ![https://sayuri.coderkang.eu.org](https://sayuri.coderkang.eu.org/get/@Flipped?theme=rule34) -->
 
 <a href="https://github.com/flipped-1121?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&hide_border=true" />
