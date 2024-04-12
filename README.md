@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Do+something+interesting%EF%BC%81" alt="Typing SVG" /></a>
 </div>
 
-
 <!-- ![https://sayuri.coderkang.eu.org](https://sayuri.coderkang.eu.org/get/@Flipped?theme=rule34) -->
 <!-- ![https://moe-counter.glitch.me](https://moe-counter.glitch.me/get/@CoderKang?theme=rule34) -->
 
