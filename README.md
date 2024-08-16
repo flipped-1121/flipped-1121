@@ -11,7 +11,7 @@
 </a> -->
 
 <div align="left">
-  <a href="https://sayuri.coderkang.eu.org"><img src="https://moe-counter.glitch.me/get/@CoderKang?theme=rule34" alt="Flipped" /></a>
+  <a href="https://moe-counter.glitch.me"><img src="https://moe-counter.glitch.me/get/@CoderKang?theme=rule34" alt="Flipped" /></a>
 </div>
 
 
