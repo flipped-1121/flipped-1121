@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&theme=onedark" alt="Kang's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flipped-1121&theme=onedark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flipped-1121&show_icons=true&theme=onedark" alt="Kang's GitHub Stats" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flipped-1121&theme=onedark" alt="Streak Stats" width="40%" />
 </div>
 
 ## 📫 Get in Touch
