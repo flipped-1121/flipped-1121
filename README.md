@@ -7,8 +7,8 @@
 
 <div align="left">
   <!-- 萌萌访客计数器 -->
-  <a href="https://moe-counter.glitch.me">
-    <img src="https://moe-counter.glitch.me/get/@CoderKang?theme=rule34" alt="Visitor Count" />
+  <a href="https://count.getloli.com/">
+    <img src="https://count.getloli.com/get/@CoderKang?theme=rule34" alt="Visitor Count" />
   </a>
 </div>
 
