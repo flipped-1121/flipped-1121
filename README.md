@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-puce-xi-22.vercel.app/api?username=flipped-1121&show_icons=true&theme=onedark" alt="Kang's GitHub Stats" />
-  <img src="https://github-readme-streak-stats-beige-eight.vercel.app?user=flipped-1121&theme=onedark" alt="Kang's GitHub Streak" />
+  <img src="https://github-readme-stats-puce-xi-22.vercel.app/api?username=nyakang&show_icons=true&theme=onedark" alt="Kang's GitHub Stats" />
+  <img src="https://github-readme-streak-stats-beige-eight.vercel.app?user=nyakang&theme=onedark" alt="Kang's GitHub Streak" />
 </div>
 
 ## 📫 Get in Touch
